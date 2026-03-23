@@ -39,17 +39,43 @@ I build practical projects that combine machine learning with clean web interfac
 
 ---
 
+
 ### Projects
 
 **[Spam Classifier](https://github.com/amit171ku/spam-classifier)**
 Email threat detection using hybrid ML + rule-based approach.
-`Python` `FastAPI` `React` `Scikit-learn` `SQLite`
+`Python` `FastAPI` `React` `Scikit-learn`
 - Naive Bayes + TF-IDF pipeline — 98% accuracy
-- Rule engine detects phishing, ALL CAPS, suspicious URLs
-- REST API with history, feedback, and stats endpoints
+- Detects spam, phishing, promotional emails
 - Deployed on Render
 
----
+**[Cyberbullying Detector](https://github.com/amit171ku/cyberbullying-detector)**
+NLP-based system to detect cyberbullying in text.
+`Python` `Machine Learning` `NLP`
+- Text classification using ML pipeline
+- Identifies harmful and abusive content
+
+**[AI Inventory System](https://github.com/amit171ku/AI-inventory-System)**
+AI-powered inventory management system.
+`Python` `AI`
+- Smart stock tracking and management
+- Automated inventory predictions
+
+**[YouTube Channel Stats Viewer](https://github.com/amit171ku/youtube-channel-stats-viewer)**
+Real-time YouTube channel analytics viewer.
+`HTML` `JavaScript` `YouTube API`
+- Fetches live channel statistics
+- Clean dashboard interface
+
+**[Amit Portfolio](https://github.com/amit171ku/amit-portfolio)**
+Personal portfolio website.
+`HTML` `CSS` `JavaScript`
+- Showcases projects and skills
+
+**[Ecommerce Web](https://github.com/amit171ku/ecommerce-web)**
+Full-stack ecommerce web application.
+`TypeScript` `React`
+- Product listing and cart functionality
 
 ### Stats
 
