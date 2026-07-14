@@ -1,6 +1,8 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2F81F7&height=180&section=header&text=Amit%20Sharma&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ML%20%26%20Full%20Stack%20Developer&descAlignY=58&descSize=18" />
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Amit+Sharma;ML+%26+Full+Stack+Developer;Building+AI-powered+products" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=2F81F7&center=true&vCenter=true&width=600&lines=Building+AI-powered+products;NLP+%7C+Classification+%7C+REST+APIs;Open+to+ML+%2F+Full+Stack+collabs" alt="Typing SVG" />
 
 <p>
   <a href="https://github.com/amit171ku"><img src="https://img.shields.io/github/followers/amit171ku?label=Follow&style=social" /></a>
@@ -203,6 +205,24 @@ Full-stack ecommerce web application.
 
 ---
 
+### Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=amit171ku&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+### Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/amit171ku/amit171ku/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+> ⚙️ Snake animation auto-updates via GitHub Action. Add [`platane/snk`](https://github.com/Platane/snk) workflow to your profile repo — it generates this SVG daily from your real contribution graph.
+
+---
+
 ### Connect
 
 <p align="center">
@@ -215,3 +235,5 @@ Full-stack ecommerce web application.
 *"First solve the problem, then write the code."*
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,100:0F2027&height=100&section=footer" />
